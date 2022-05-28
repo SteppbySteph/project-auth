@@ -10,7 +10,6 @@ Other learning goals included:
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
 To style this project we installed mui/material and styled components. Another technology was reduxjs/toolkit.
 A problem occured from backend side when adding a min- and maxlength to our password property in the model Schema. Since we are using encrypted password the length of this becomes longer than allowed. This was solved by just keeping a validation for password from frontend side.  
 
